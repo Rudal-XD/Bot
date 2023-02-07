@@ -1,7 +1,7 @@
 {
     "name": "oscar-md-v6",
     "version": "3.0.0",
-    "description": "WhatsApp BOT By Jarot",
+    "description": "WhatsApp BOT By fanky",
     "main": "index.js",
     "type": "module",
     "directories": {
@@ -24,7 +24,7 @@
     ],
     "homepage": "https://github.com/hyuura-official",
     "author": {
-        "name": "Jarot"
+        "name": "fanky"
     },
     "repository": {
         "type": "git",
