@@ -528,7 +528,7 @@ let almenu = `
 ┆┆⬡ *🅛︎* = Limit
 ┗─────────────────⬣`
 let nomorwa = '0'
-let nomorowm1 = '6285850539404'
+let nomorowm1 = '62895386194665'
 let d1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
 let d2 = 'application/vnd.openxmlformats-officedocument.wordprocessingml.document'
 let d3= 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet'
