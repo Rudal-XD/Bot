@@ -48,7 +48,7 @@ global.nomorbot = '0'
 global.nomorown = '62895386194665'
 global.nomorown1 = '62895321510079'
 global.nomorown2 = '0'
-global.nomorwa = '0'
+global.nomorwa = '62895386194665'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
@@ -80,7 +80,7 @@ global.lynk = ''
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.sig = 'https://instagram.com/fanky_a7'
 global.sgh = 'https://github.com/Rudal-XD' //github
-global.sgc = 'https://chat.whatsapp.com/Kw8x8nvgVbL5AelR7FxhBm' //group whatsapp
+global.sgc = 'https://chat.whatsapp.com/Io6qK5JRALP7SkNa2r7gr3' //group whatsapp
 global.sdc = '-' //discord
 global.snh = 'https://youtube.com/@radenmanis6592'
 
@@ -309,7 +309,7 @@ global.urlnya = "https://instagram.com/fanky_a7"
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
 global.phn = '0895386194665'
 
-global.thumbdoc = 'https://telegra.ph/file/0e4fb9bfb49f985ef053e.jpg'
+global.thumbdoc = 'https://telegra.ph/file/f2af590bc17f309b46dc2.jpg'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ JNGN DI UBAH ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.fsizedoc = '99999999999999'
