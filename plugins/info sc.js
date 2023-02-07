@@ -31,8 +31,8 @@ let handler = async (m, { conn, args, command }) => {
        let tag = `@${m.sender.replace(/@.+/, '')}`
   let mentionedJid = [m.sender]
 let scnya = `⟥⟝❨ 𝙽𝚒𝚑 ${tag} ❩⟝⟤`
-    let footerny = `┆📮 Mentahan.\n┆📑  *Base* : https://github.com/Rudal-XD/BOT-WA-NEW\n┆🥊 *Script Ini:* https://youtube.com/@radenmanis6592 𝙹𝚊𝚗𝚐𝚊𝚗 𝙻𝚞𝚙𝚊 𝚂𝚞𝚜𝚌𝚛𝚒𝚋𝚎`
- conn.send3ButtonImg(m.chat, `https://telegra.ph/file/ef49e882e7abd96d74f7d.jpg`, scnya, footerny, 'Menu', '.menu', 'Owner', '.owner', 'Credit', '.credit', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
+    let footerny = `┆📮 Mentahan.\n┆📑  *Base* : https://github.com/Rudal-XD/fix-oscar-md-v4\n┆🥊 *Script Ini:* https://youtube.com/@radenmanis6592 𝙹𝚊𝚗𝚐𝚊𝚗 𝙻𝚞𝚙𝚊 𝚂𝚞𝚜𝚌𝚛𝚒𝚋𝚎`
+ conn.send3ButtonImg(m.chat, `https://telegra.ph/file/f2af590bc17f309b46dc2.jpg`, scnya, footerny, 'Menu', '.menu', 'Owner', '.owner', 'Credit', '.credit', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
     mediaUrl: 'https://instagram.com/fanky_a7',
     mediaType: 2, 
     description: sgc,
