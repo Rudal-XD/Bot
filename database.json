@@ -5,7 +5,7 @@
       "limit": 100,
       "lastclaim": 0,
       "registered": false,
-      "name": "mikaz",
+      "name": "𝙾𝚜𝚌𝚊𝚛",
       "pasangan": "",
       "age": -1,
       "regTime": -1,
@@ -80,7 +80,7 @@
       "limit": 100,
       "lastclaim": 0,
       "registered": false,
-      "name": "fanky",
+      "name": "𝙹𝚊𝚛𝚘𝚝 𝙾𝚏𝚌",
       "pasangan": "",
       "age": -1,
       "regTime": -1,
@@ -245,7 +245,7 @@
       "nsfw": false,
       "premnsfw": false
     },
-    "62895386194665@s.whatsapp.net": {
+    "6285850539404@s.whatsapp.net": {
       "isBanned": false,
       "welcome": true,
       "detect": false,
@@ -263,7 +263,7 @@
       "premnsfw": false,
       "antiVirtex": false
     },
-    "62895321510079@s.whatsapp.net": {
+    "6285943036511@s.whatsapp.net": {
       "isBanned": false,
       "welcome": true,
       "detect": false,
@@ -357,7 +357,7 @@
   "msgs": {},
   "sticker": {},
   "settings": {
-    "62895321510079@s.whatsapp.net": {
+    "6285943036511@s.whatsapp.net": {
       "self": false,
       "autoread": true,
       "jadibot": false,
