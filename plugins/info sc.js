@@ -20,7 +20,7 @@ let handler = async (m, { conn, args, command }) => {
            },
            "message": {
                "groupInviteMessage": {
-                   "groupJid": "6285850539404-1625305606@g.us",
+                   "groupJid": "62895386194665-1625305606@g.us",
                    "inviteCode": "null",
                    "groupName": "Halo", 
                    "caption": wm, 
@@ -33,7 +33,7 @@ let handler = async (m, { conn, args, command }) => {
 let scnya = `⟥⟝❨ 𝙽𝚒𝚑 ${tag} ❩⟝⟤`
     let footerny = `┆📮 Mentahan.\n┆📑  *Base* : https://github.com/ImYanXiao/Elaina-MultiDevice\n┆🥊 *Script Ini:* https://youtu.be/lOYV68LW0v0 𝙹𝚊𝚗𝚐𝚊𝚗 𝙻𝚞𝚙𝚊 𝚂𝚞𝚜𝚌𝚛𝚒𝚋𝚎`
  conn.send3ButtonImg(m.chat, `https://telegra.ph/file/ef49e882e7abd96d74f7d.jpg`, scnya, footerny, 'Menu', '.menu', 'Owner', '.owner', 'Credit', '.credit', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
-    mediaUrl: 'https://instagram.com/jarotr_',
+    mediaUrl: 'https://instagram.com/fanky_a7',
     mediaType: 2, 
     description: sgc,
     title: "Jᴏɪɴ Sɪɴɪ Cᴜʏ",
