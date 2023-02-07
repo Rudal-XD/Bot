@@ -42,7 +42,7 @@ VERSION:3.0
 N:;;;
 FN: ᯤ Fanky X Mikaz
 item.ORG: ᴅᴇᴠᴇʟᴏᴩᴇʀ ʙᴏᴛ
-item1.TEL;waid=62895386194665:62895386194665@s.whatsapp.net
+item1.TEL;waid=62895321510079:62895386194665@s.whatsapp.net
 item1.X-ABLabel: ᴅᴇᴠᴇʟᴏᴩᴇʀ ʙᴏᴛ
 item2.EMAIL;type=INTERNET: radenmanis123@gmail.com
 item2.X-ABLabel:📫 Gmail
@@ -57,7 +57,7 @@ item6.URL:https://instagram.com/fanky_a7
 item6.X-ABLabel:Instagram fanky
 item7.URL:𝚈𝚘𝚞𝚝𝚞𝚋𝚎: fanky
 item7.X-ABLabel: 𝚂𝚞𝚜𝚌𝚛𝚒𝚋𝚎 𝙲𝚑𝚊𝚗𝚎𝚕 fanky
-item1.TEL;waid=62895321510079:62895386194665@s.whatsapp.net
+item1.TEL;waid=62895386194665:62895321510079@s.whatsapp.net
 item1.X-ABLabel: Creator Bot
 END:VCARD`
 const sentMsg  = await conn.sendMessage(
