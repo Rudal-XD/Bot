@@ -69,8 +69,8 @@ const sentMsg  = await conn.sendMessage(
         }
     }
 )
-let jarot = 'https://telegra.ph/file/1b4913c4196e640732efa.jpg'
-await conn.send3ButtonImg(m.chat, jarot, `${ucapan()}\n\n𝙷𝚊𝚕𝚘 𝙺𝚊𝚔, @${m.sender.split`@`[0]} 👋\n𝙸𝚗𝚒 𝙽𝚘𝚖𝚎𝚛 𝙾𝚠𝚗𝚎𝚛 𝙱𝚘𝚝, 𝙹𝚊𝚗𝚐𝚊𝚗 𝙳𝚒 𝚂𝚙𝚊𝚖 𝚈𝚊\n𝙺𝚊𝚕𝚊𝚞 𝙼𝚊𝚞 𝙳𝚒𝚜𝚊𝚟𝚎 𝚂𝚢𝚊𝚛𝚊𝚝 𝙽𝚢𝚊 𝙷𝚊𝚛𝚞𝚜 𝙿𝚊𝚔𝚊𝚒 𝙿𝚛𝚘𝚏𝚒𝚕 𝚜𝚎𝚗𝚍𝚒𝚛𝚒\n𝙺𝚊𝚕𝚊𝚞 𝙶𝚊𝚔 𝙰𝚍𝚊 𝙿𝚛𝚘𝚏𝚒𝚕 𝙶𝚊𝚔 𝙱𝚊𝚔𝚊𝚕𝚊𝚗 𝙳𝚒 𝚁𝚎𝚜𝚙𝚘𝚗\n𝙹𝚒𝚔𝚊 𝙿𝚎𝚗𝚝𝚒𝚗𝚐 𝙻𝚊𝚗𝚐𝚜𝚞𝚗𝚐 𝚆𝚊 𝙾𝚠𝚗𝚎𝚛\n\n⫹⫺ Date : *${week} ${date}*\n⫹⫺ Time : *${wib}*`, wm, 'Source', '.sc', 'Menu', '.menu', 'Donasi', '.donasi', sentMsg)}
+let fanky = 'https://telegra.ph/file/f2af590bc17f309b46dc2.jpg'
+await conn.send3ButtonImg(m.chat, fanky, `${ucapan()}\n\n𝙷𝚊𝚕𝚘 𝙺𝚊𝚔, @${m.sender.split`@`[0]} 👋\n𝙸𝚗𝚒 𝙽𝚘𝚖𝚎𝚛 𝙾𝚠𝚗𝚎𝚛 𝙱𝚘𝚝, 𝙹𝚊𝚗𝚐𝚊𝚗 𝙳𝚒 𝚂𝚙𝚊𝚖 𝚈𝚊\n𝙺𝚊𝚕𝚊𝚞 𝙼𝚊𝚞 𝙳𝚒𝚜𝚊𝚟𝚎 𝚂𝚢𝚊𝚛𝚊𝚝 𝙽𝚢𝚊 𝙷𝚊𝚛𝚞𝚜 𝙿𝚊𝚔𝚊𝚒 𝙿𝚛𝚘𝚏𝚒𝚕 𝚜𝚎𝚗𝚍𝚒𝚛𝚒\n𝙺𝚊𝚕𝚊𝚞 𝙶𝚊𝚔 𝙰𝚍𝚊 𝙿𝚛𝚘𝚏𝚒𝚕 𝙶𝚊𝚔 𝙱𝚊𝚔𝚊𝚕𝚊𝚗 𝙳𝚒 𝚁𝚎𝚜𝚙𝚘𝚗\n𝙹𝚒𝚔𝚊 𝙿𝚎𝚗𝚝𝚒𝚗𝚐 𝙻𝚊𝚗𝚐𝚜𝚞𝚗𝚐 𝚆𝚊 𝙾𝚠𝚗𝚎𝚛\n\n⫹⫺ Date : *${week} ${date}*\n⫹⫺ Time : *${wib}*`, wm, 'Source', '.sc', 'Menu', '.menu', 'Donasi', '.donasi', sentMsg)}
 handler.help = ['owner']
 handler.tags = ['info']
 handler.command = /^(owner|creator)$/i
