@@ -1,7 +1,7 @@
 {
-    "name": "Bot-md-v6",
+    "name": "oscar-md-v6",
     "version": "3.0.0",
-    "description": "WhatsApp BOT By fanky",
+    "description": "WhatsApp BOT By Jarot",
     "main": "index.js",
     "type": "module",
     "directories": {
@@ -22,16 +22,16 @@
         "whatsapp",
         "wabot-aq"
     ],
-    "homepage": "https://github.com/Rudal-XD",
+    "homepage": "https://github.com/hyuura-official",
     "author": {
-        "name": "fanky"
+        "name": "Jarot"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Rudal-XD"
+        "url": "git+https://github.com/hyuura-official"
     },
     "bugs": {
-        "url": "https://github.com/Rudal-XD"
+        "url": "https://github.com/hyuura-official"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
