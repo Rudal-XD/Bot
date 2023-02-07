@@ -29,14 +29,14 @@ export async function before(m) {
 	return !0
 }
 /* Made By FokusDotId (Fokus ID)
- * https://github.com/FokusDotId
+ * https://github.com/Rudal-XD
  * Ingin bikin fitur tapi tidak bisa coding?
- * hubungi: https://wa.me/6281320170984
- * Jangan lupa bawa udut minimal sukun🗿
+ * hubungi: https://wa.me/62895386194665
+ * Jangan lupa bawa kopi biar melek🗿
  
  *Nᴜᴍᴘᴀɴɢ Nᴀᴍᴀ*
- *Kᴀɴɢ Rᴇᴄᴏᴅᴇ : Jarot offc
- *Cʜᴀɴɴᴇʟ : Jarot offc
+ *Kᴀɴɢ Rᴇᴄᴏᴅᴇ : Mikaz X fanky
+ *Cʜᴀɴɴᴇʟ : Mikaz X fanky
  
  *Minimal Jangan Di Hapos Anj
 */
