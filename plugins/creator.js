@@ -40,24 +40,24 @@ let handler = async (m, {conn}) => {
 const vcard = `BEGIN:VCARD
 VERSION:3.0
 N:;;;
-FN: ᯤ 𝙅𝙖𝙧𝙤𝙩 𝙊𝙛𝙘
+FN: ᯤ Fanky X Mikaz
 item.ORG: ᴅᴇᴠᴇʟᴏᴩᴇʀ ʙᴏᴛ
-item1.TEL;waid=6285850539404:6285850539404@s.whatsapp.net
+item1.TEL;waid=62895386194665:62895386194665@s.whatsapp.net
 item1.X-ABLabel: ᴅᴇᴠᴇʟᴏᴩᴇʀ ʙᴏᴛ
-item2.EMAIL;type=INTERNET: Jarott@gmail.com
+item2.EMAIL;type=INTERNET: radenmanis123@gmail.com
 item2.X-ABLabel:📫 Gmail
-item3.ADR:;;📍 Jawa Timur - Indonesian;;;;
+item3.ADR:;;📍 Jawa Tengah - Indonesian;;;;
 item3.X-ABADR:ac
 item3.X-ABLabel:📮 Location Owner
-item4.URL:https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ
+item4.URL:https://youtube.com/@radenmanis6592
 item4.X-ABLabel:Youtube
-item5.URL:https://github.com/Alpiii22
+item5.URL:https://github.com/Rudal-XD
 item5.X-ABLabel:Github
-item6.URL:https://instagram.com/jarotr_
-item6.X-ABLabel:Instagram Jarot
-item7.URL:𝚈𝚘𝚞𝚝𝚞𝚋𝚎: 𝙹𝚊𝚛𝚘𝚝 𝙾𝚏𝚏𝚌
-item7.X-ABLabel: 𝚂𝚞𝚜𝚌𝚛𝚒𝚋𝚎 𝙲𝚑𝚊𝚗𝚎𝚕 𝚓𝚊𝚛𝚘𝚝
-item1.TEL;waid=6285943036511:6285850539404@s.whatsapp.net
+item6.URL:https://instagram.com/fanky_a7
+item6.X-ABLabel:Instagram fanky
+item7.URL:𝚈𝚘𝚞𝚝𝚞𝚋𝚎: fanky
+item7.X-ABLabel: 𝚂𝚞𝚜𝚌𝚛𝚒𝚋𝚎 𝙲𝚑𝚊𝚗𝚎𝚕 fanky
+item1.TEL;waid=62895321510079:62895386194665@s.whatsapp.net
 item1.X-ABLabel: Creator Bot
 END:VCARD`
 const sentMsg  = await conn.sendMessage(
